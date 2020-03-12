@@ -1,0 +1,14 @@
+# Created by .ignore support plugin (hsz.mobi)
+###项目中一般不需要上传到git服务器上的有###
+node_modules/
+target/
+/*/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+.mvn
+mvnw*
